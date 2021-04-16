@@ -29,4 +29,4 @@ dofile(path.."/mobs/sheep.lua")
 dofile(path.."/mobs/turkey.lua")
 
 
-minetest.log("action", "[MOD] Better Fauna [0.1] loaded")
+--minetest.log("action", "[MOD] Better Fauna [0.1] loaded")
